@@ -2,6 +2,11 @@
 
 A Next.js dashboard project with login, protected pages, and a users table with search and pagination.
 
+## Live Demo
+
+The project is hosted and live on Vercel:
+[https://metizsoft-task.vercel.app/](https://metizsoft-task.vercel.app/)
+
 ## Features
 
 - App Router-based Next.js 14 project
